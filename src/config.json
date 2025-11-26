@@ -4,7 +4,7 @@
   "store_name": "next-commerce",
   "main_color": "#001637ff",
   "phone": "0553363221",
-  "repoName": "miralbijoux",
+  "repoName": "miralbijoux-nc",
   "facebook": "https://www.facebook.com/",
   "instagram": "https://www.instagram.com/",
   "tiktok": "https://www.tiktok.com/",
@@ -29,7 +29,7 @@
     "aboutText": "We will contact you soon. Have a nice day."
   },
   "facebookPixel": {
-    "name": "next-commerce",
-    "id": "next-commerce"
+    "name": "",
+    "id": ""
   }
 }
