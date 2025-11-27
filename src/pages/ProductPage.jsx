@@ -240,7 +240,7 @@ export default function ProductPage() {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
 
                     {/* 🟢 Images */}
-                    <ItemImages product={product} main_color={main_color} />
+                    <ItemImages product={product} main_color={main_color} language={language} />
 
                     {/* 🟢 Product Details + Form */}
                     <div className="flex flex-col space-y-6">
