@@ -1,7 +1,7 @@
 {
   "id": "6927828a363b5bccc8ff6156",
   "logo": "https://i.ibb.co/7JHDDDg4/blob.webp",
-  "store_name": "next-commerce",
+  "store_name": "miral",
   "main_color": "#001637ff",
   "phone": "0553363221",
   "repoName": "miralbijoux-nc",
@@ -38,5 +38,6 @@
       "answer": "klkkj",
       "id": "1764455834879"
     }
-  ]
+  ],
+  "language": "fr"
 }
