@@ -3,12 +3,12 @@
   "logo": "https://i.ibb.co/XfDDHXHM/blob.webp",
   "store_name": "miral",
   "main_color": "#001637ff",
-  "phone": "0553363221",
+  "phone": "",
   "repoName": "miralbijoux-nc",
   "facebook": "https://www.facebook.com/",
   "instagram": "https://www.instagram.com/",
   "tiktok": "https://www.tiktok.com/",
-  "email": "raouf.hamoudi.r@gmail.com",
+  "email": "",
   "tiktokP": "",
   "FacebookP": "",
   "header": {
@@ -39,5 +39,8 @@
       "id": "1764455834879"
     }
   ],
-  "language": "fr"
+  "language": "fr",
+  "whatsapp": "0553363221",
+  "viber": "",
+  "snapchat": ""
 }
