@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "692e42a286121db336276b3b",
+    "userId": "6927828a363b5bccc8ff6156",
+    "name": "pate a modeler +slime",
+    "price": 2400,
+    "ShortDescription": "🎨 Foam Clay JELLY GO – Pâte à modeler légère et colorée\nUn kit complet de foam clay avec 12 couleurs vives pour laisser libre cours à la créativité des enfants !\n✔️ Texture ultra-légère\n✔️ Facile à modeler\n✔️ Ne colle pas aux mains\n✔️ Parfaite pour les activités créatives\n✔️ Plus un cadeau Slime\n✨ Idéale pour développer l’imagination et la motricité fine ! 💛🛒",
+    "LadingPages": [
+      "https://i.ibb.co/gMLVQd0x/blob.webp",
+      "https://i.ibb.co/tMXr45cv/blob.webp"
+    ],
+    "Variants": [],
+    "Offers": [
+      {
+        "id": 0,
+        "name": "1",
+        "Quantity": "2",
+        "price": "4000",
+        "freedelevry": false,
+        "topOffer": true
+      }
+    ],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/gMLVQd0x/blob.webp",
+      "https://i.ibb.co/tMXr45cv/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-12-02T01:36:34.730Z",
+    "__v": 0
+  }
+]
